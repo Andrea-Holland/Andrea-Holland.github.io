@@ -285,7 +285,7 @@ footer p:nth-child(2){
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #f9004d;
+    background: #CD5C5C;
     border-radius: 50%;
     margin: 22px 10px;
     color: white;
@@ -298,7 +298,7 @@ footer p:nth-child(2){
 }
 .end{
     position: absolute;
-    color: #f9004d;
+    color: #CD5C5C;
     bottom: 35px;
     font-size: 14px;
 }
